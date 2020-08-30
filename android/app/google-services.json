@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970001182700",
+    "firebase_url": "https://sabkidukaannew.firebaseio.com",
+    "project_id": "sabkidukaannew",
+    "storage_bucket": "sabkidukaannew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970001182700:android:e0de5d3b2d84be96831ac9",
+        "android_client_info": {
+          "package_name": "com.sabkidukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970001182700-rrjsftgd15jrulmgtd59550r1km0lnhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sabkidukaan",
+            "certificate_hash": "391a25d7be52711458c301dd1e16e2ccdb59ba05"
+          }
+        },
+        {
+          "client_id": "970001182700-6rmcrgurjvij228rt58bmjoair7nphih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfm-fQyC0aZ3mcij_Yk-VZp2M_3_wLj8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970001182700-6rmcrgurjvij228rt58bmjoair7nphih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
